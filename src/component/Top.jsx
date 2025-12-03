@@ -37,7 +37,7 @@ const Top = () => {
             </div>
             <div className='h-[30vh]   justify-center items-center text-5xl text-white font-extrabold  flex-wrap'>
                 <h1>Tell Us About Your Copmany</h1>
-            </div>``
+            </div>
         </div>
     )
 }
