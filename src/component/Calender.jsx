@@ -30,7 +30,7 @@ const Calender = () => {
         {`
 
           .calendar-wrapper {
-            width: 670px;
+            width: 100%;
             height: 289px;
             overflow: hidden;
             display: flex;
