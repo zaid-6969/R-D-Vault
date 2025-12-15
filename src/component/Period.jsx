@@ -59,7 +59,7 @@ const Period = () => {
         ].map((item, idx) => (
           <div
             key={idx}
-            className="bg-gradient-to-r from-[#8161AE] to-[#7362E2]
+            className="bg-linear-to-r from-[#8161AE] to-[#7362E2]
               text-white text-xs rounded-lg p-3 flex justify-between"
           >
             <span>{item}</span>

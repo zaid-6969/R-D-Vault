@@ -22,14 +22,14 @@ const Subsidies = () => {
         <div className="flex flex-col sm:flex-row gap-4">
           <button className="
             w-full sm:w-1/2 p-3 font-bold text-white rounded
-            bg-gradient-to-r from-[#8161AE] to-[#7362E2]
+            bg-linear-to-r from-[#8161AE] to-[#7362E2]
           ">
             No
           </button>
 
           <button className="
             w-full sm:w-1/2 p-3 font-bold text-white rounded
-            bg-gradient-to-r from-[#8161AE] to-[#7362E2]
+            bg-linear-to-r from-[#8161AE] to-[#7362E2]
           ">
             Yes
           </button>

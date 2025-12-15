@@ -23,7 +23,7 @@ const Top = () => {
                     <li className='flex flex-row  gap-2 items-center'>
                         <FaPhoneAlt /> <p> +9894427100</p>
                     </li>
-                    <li className='flex flex-row  gap-2 items-center'>
+                    <li className='hidden md:flex flex-row  gap-2 items-center'>
                         <IoMdMail /><p>bawasmohammedzaid@.com</p>
                     </li>
                 </ul>

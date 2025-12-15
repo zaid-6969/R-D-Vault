@@ -32,7 +32,7 @@ const Expense = () => {
           Enter expenses manually to estimate your R&D claim.
         </p>
         <button className="
-          bg-gradient-to-r from-[#8161AE] to-[#7362E2]
+          bg-linear-to-r from-[#8161AE] to-[#7362E2]
           text-white font-bold p-2 rounded
         ">
           Manual Input

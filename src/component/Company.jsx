@@ -54,7 +54,7 @@ const Company = () => {
               }}
               className={`p-3 rounded cursor-pointer flex justify-between items-center
                 ${selected === idx
-                  ? "bg-gradient-to-r from-[#8161AE] to-[#7362E2] text-white"
+                  ? "bg-linear-to-r from-[#8161AE] to-[#7362E2] text-white"
                   : "bg-gray-200"
                 }`}
             >
